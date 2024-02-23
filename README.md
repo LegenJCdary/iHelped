@@ -8,7 +8,7 @@
 * Easy and fun-to-use Helper mode and Org mode.
 * Only for Public Benefit Orgs.
 * Do not turn into social media platform - minimal sm functionalities, fair algorithms.
-* Additional and visibility support for small orgs.
+* Additional support and visibility for small orgs.
 * Reliability - stable and continuous org verification mechanisms.
 * Safety - traffic moderation, objects and chat control?
 
@@ -41,5 +41,5 @@
 * Invite option on events.
 ## Org Infos
 * Plates with favourite orgs.
-* **Find more orgs** search engine.
+* *Find more orgs* search engine.
 ## Settings
